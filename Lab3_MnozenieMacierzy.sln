@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3_MnozenieMacierzy", "Lab3_MnozenieMacierzy.csproj", "{D4E9D3E9-69A3-4A86-B178-AAF9557A6D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imgg_processing", "..\Imgg_processing\Imgg_processing.csproj", "{F641EC01-21FF-421C-B447-FF598D218D58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E9D3E9-69A3-4A86-B178-AAF9557A6D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E9D3E9-69A3-4A86-B178-AAF9557A6D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E9D3E9-69A3-4A86-B178-AAF9557A6D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E9D3E9-69A3-4A86-B178-AAF9557A6D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F641EC01-21FF-421C-B447-FF598D218D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F641EC01-21FF-421C-B447-FF598D218D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F641EC01-21FF-421C-B447-FF598D218D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F641EC01-21FF-421C-B447-FF598D218D58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {090AAF25-3C52-405D-B01B-786A25FC818F}
+	EndGlobalSection
+EndGlobal
